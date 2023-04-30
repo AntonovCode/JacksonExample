@@ -1,0 +1,11 @@
+{
+  "lastname" : "Петров",
+  "firstname" : "Игорь",
+  "phones" : [ {
+    "phone" : "8-900-000-00-00",
+    "isMain" : true
+  }, {
+    "phone" : "8-900-000-00-01",
+    "isMain" : false
+  } ]
+}
